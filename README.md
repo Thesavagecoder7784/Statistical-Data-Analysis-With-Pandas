@@ -7,3 +7,4 @@ A repository which holds all of my python projects
   -English Premier League Transfers Analysis 2019/2020
   -Analysis of NBA players and positions of all time
   -Basic Analysis of Most Expenive transfers in Football
+  -Analysis of Actors,their Salary and Top Movies
