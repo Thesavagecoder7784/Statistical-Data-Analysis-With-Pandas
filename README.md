@@ -8,3 +8,5 @@ A repository which holds all of my python projects
   -Analysis of NBA players and positions of all time
   -Basic Analysis of Most Expenive transfers in Football
   -Analysis of Actors,their Salary and Top Movies
+  -Spanish National Team 2020= Enter a number to find the name and details of the player
+  
