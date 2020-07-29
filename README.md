@@ -9,4 +9,5 @@ A repository which holds all of my python projects
   -Basic Analysis of Most Expenive transfers in Football
   -Analysis of Actors,their Salary and Top Movies
   -Spanish National Team 2020= Enter a number to find the name and details of the player
+  -Belgian National Team 2020= Enter a number to find the name and details of the player
   -2018 World Cup Sqauds Player Analysis
