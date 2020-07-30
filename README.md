@@ -15,8 +15,8 @@ A repository which holds all of my python projects
 	-Analysis of Actors,their Salary and Top Movies
   
 	-Spanish National Team 2020= Enter a number to find the name and details of the player(https://colab.research.google.com/drive/1tVXLZBvdaNK8PX4C6zk0G2uj3r6a1lSR?usp=sharing)
-
-        -Belgian National Team 2020= Enter a number to find the name and details of the player(https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
+        
+	-Belgian National Team 2020= Enter a number to find the name and details of the player(https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
   
 	-Brazilian National Team 2020 =Enter a number to find the name of the player()
   
