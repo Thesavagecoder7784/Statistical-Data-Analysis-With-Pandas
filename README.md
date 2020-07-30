@@ -18,6 +18,8 @@ A repository which holds all of my python projects
         
 	-Belgian National Team 2020= Enter a number to find the name and details of the player(https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
   
-	-Brazilian National Team 2020 =Enter a number to find the name of the player()
+	-Brazilian National Team 2020 =Enter a number to find the name of the player(https://colab.research.google.com/drive/1oqwFXgnGApkkbaH1K5yuvM52tzv0QZga?usp=sharing)
+	
+	-Argentinn National Team 2020=Enter a number to find the name of the player(https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing)
   
 	-2018 World Cup Sqauds Player Analysis
