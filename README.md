@@ -23,3 +23,6 @@ A repository which holds all of my python projects
 	-Argentinn National Team 2020=Enter a number to find the name of the player(https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing)
   
 	-2018 World Cup Sqauds Player Analysis
+         
+	-Regression Visualization
+	
