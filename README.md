@@ -1,16 +1,16 @@
 # Python Notebooks
 
-A repository which holds all of my python projects
+A repository which holds all of my Python projects
 
 -Magic Trick(https://colab.research.google.com/drive/1Q5M571lpIRo2kxk5br4cGAyiLv27rHDA?usp=sharing)
  
 -IPL Auction 2020 Analysis(https://colab.research.google.com/drive/1sE5wycev0PU1Ga4_IzllNvD8E-40hQVE?usp=sharing)
   
--English Premier League Transfers Analysis 2019/2020
+-English Premier League Transfers Analysis 2019/2020(https://colab.research.google.com/drive/1GVdtVlSBnODOyxITte8hzw0d9cK9MKZu?usp=sharing)
   
 -Analysis of NBA players and positions of all time
   
--Basic Analysis of Most Expenive transfers in Football
+-Basic Analysis of Most Expenive transfers in Football(https://colab.research.google.com/drive/1YD2jjWuaTSGp6mFuGC8zU3QYscLx-Emw?usp=sharing)
   
 -Analysis of Actors,their Salary and Top Movies(https://colab.research.google.com/drive/1kZ35Jv8BeTmdMeMj77Hve6zVTlgrDlRy?usp=sharing)
   
