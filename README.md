@@ -2,7 +2,7 @@
 
 A repository which holds all of my python projects
 
--Magic Trick
+-Magic Trick(https://colab.research.google.com/drive/1Q5M571lpIRo2kxk5br4cGAyiLv27rHDA?usp=sharing)
  
 -IPL Auction 2020 Analysis(https://colab.research.google.com/drive/1sE5wycev0PU1Ga4_IzllNvD8E-40hQVE?usp=sharing)
   
