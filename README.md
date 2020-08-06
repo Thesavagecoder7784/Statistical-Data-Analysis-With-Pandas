@@ -22,6 +22,6 @@ A repository which holds all of my Python projects
 	
 -Argentina National Team 2020=Enter a number to find the name of the player(https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing)
   
--2018 World Cup Sqauds Player Analysis
+-2018 FIFA World Cup Sqauds Player Analysis(https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing)
          
 -Regression Visualization
