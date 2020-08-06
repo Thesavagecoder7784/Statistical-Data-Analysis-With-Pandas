@@ -4,7 +4,7 @@ A repository which holds all of my python projects
 
 -Magic Trick
  
--IPL Auction 2020 Analysis
+-IPL Auction 2020 Analysis(https://colab.research.google.com/drive/1sE5wycev0PU1Ga4_IzllNvD8E-40hQVE?usp=sharing)
   
 -English Premier League Transfers Analysis 2019/2020
   
@@ -12,7 +12,7 @@ A repository which holds all of my python projects
   
 -Basic Analysis of Most Expenive transfers in Football
   
--Analysis of Actors,their Salary and Top Movies
+-Analysis of Actors,their Salary and Top Movies(https://colab.research.google.com/drive/1kZ35Jv8BeTmdMeMj77Hve6zVTlgrDlRy?usp=sharing)
   
 -Spanish National Team 2020= Enter a number to find the name and details of the player(https://colab.research.google.com/drive/1tVXLZBvdaNK8PX4C6zk0G2uj3r6a1lSR?usp=sharing)
         
