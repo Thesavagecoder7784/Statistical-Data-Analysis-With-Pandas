@@ -30,7 +30,7 @@ After:
  
 -IPL Auction 2020 Analysis [here](https://colab.research.google.com/drive/1sE5wycev0PU1Ga4_IzllNvD8E-40hQVE?usp=sharing) (D)
   
--English Premier League Transfers Analysis 2019/2020 [here]https://colab.research.google.com/drive/1GVdtVlSBnODOyxITte8hzw0d9cK9MKZu?usp=sharing) (D)
+-English Premier League Transfers Analysis 2019/2020 [here](https://colab.research.google.com/drive/1GVdtVlSBnODOyxITte8hzw0d9cK9MKZu?usp=sharing) (D)
   
 -Analysis of NBA players and positions of all time (D)
   
