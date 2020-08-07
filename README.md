@@ -2,6 +2,8 @@
 
 A repository which holds all of my Python projects
 
+You can download the datset and execute the cells in colab
+
 -Magic Trick(https://colab.research.google.com/drive/1Q5M571lpIRo2kxk5br4cGAyiLv27rHDA?usp=sharing)
  
 -IPL Auction 2020 Analysis(https://colab.research.google.com/drive/1sE5wycev0PU1Ga4_IzllNvD8E-40hQVE?usp=sharing)
@@ -25,3 +27,6 @@ A repository which holds all of my Python projects
 -2018 FIFA World Cup Sqauds Player Analysis(https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing)
          
 -Regression Visualization
+
+
+T
