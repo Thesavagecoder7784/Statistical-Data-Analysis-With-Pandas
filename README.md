@@ -8,7 +8,7 @@ I have classified my notebooks into 2 types
 
 2 - *Performing A Statistical Analysis* (E.g.IPL Auction 2020 Analysis.ipynb)
 
-## Check out Analysis of IPL Auction 2020 for a complete [guided tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/AnalysisIPLAuction2020.ipynb)
+## Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
 
 ## Always remember to improvise and beautify your code
 
