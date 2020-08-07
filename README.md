@@ -3,7 +3,9 @@
 ## A repository which holds all of my Python projects
  
 I have classified my notebooks into 2 types
+
 1  *Basic Types which takes user input and performs functions*
+
 2  *Performing A Statistical Analysis*
 
 ### Tutorial
