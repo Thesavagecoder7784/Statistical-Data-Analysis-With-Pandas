@@ -1,8 +1,24 @@
 # Python Notebooks
 
-A repository which holds all of my Python projects
+##A repository which holds all of my Python projects
+ 
+I have classified my notebooks into 2 types
+1 - *Basic Types which takes user input and performs functions*
+2 - *Performing A Statistical Analysis*
 
-You can download the datset and execute the cells in colab
+###Tutorial
+
+For performing a ppredictive Analysis:
+1.Importing the libraries - *-Pandas,-Numpy ,-Matplotlib.pyplot*
+2.Reading the file in Pandas
+3.Performing a statistcal Analysis
+
+Some functions I have used:
+df[''].value_counts() - To find the frequency of the elements in a column
+pd.read_csv() = To read a csv file in pandas
+df.head() = To print first 5 rows of the df
+
+You can download the datset and execute the cells in colab:
 
 -Magic Trick(https://colab.research.google.com/drive/1Q5M571lpIRo2kxk5br4cGAyiLv27rHDA?usp=sharing)
  
@@ -27,6 +43,3 @@ You can download the datset and execute the cells in colab
 -2018 FIFA World Cup Sqauds Player Analysis(https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing)
          
 -Regression Visualization
-
-
-T
