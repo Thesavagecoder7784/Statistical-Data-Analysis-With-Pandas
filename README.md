@@ -11,7 +11,7 @@ I have classified my notebooks into 2 types
 ## Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
 
 **I personally recommend you to try out [this](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
-(Execute and run the cells in colab)
+(Execute and run the cells in colab)**
 
 ## Always remember to improvise and beautify your code
 
