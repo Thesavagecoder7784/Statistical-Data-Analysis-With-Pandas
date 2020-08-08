@@ -10,21 +10,26 @@ I have classified my notebooks into 2 types
 
 ## Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
 
+**I personally recommend you to try out [this](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
+(Execute and run the cells in colab)
+
 ## Always remember to improvise and beautify your code
 
-**Here's one example**
+### Here's one of my own example:
 
-Before:
+**Before:**
 
 ![alt text](https://github.com/Thesavagecoder7784/datasets-images/blob/master/Maplotlib%20Actor%20Before.PNG?raw=true)
 
-After:
+**After:**
 
 ![alt text](https://github.com/Thesavagecoder7784/datasets-images/blob/master/Maplotlib%20Actor%20After.PNG?raw=true)
 
 **You can download the datset and execute the cells in colab:**
 
 **(D) - Dataset required  (ND) - No dataset required**
+
+**Click here to view and execute the code in colab**
 
 -Magic Trick [here](https://colab.research.google.com/drive/1Q5M571lpIRo2kxk5br4cGAyiLv27rHDA?usp=sharing) - (ND)
  
@@ -42,9 +47,9 @@ After:
         
 -Belgian National Team 2020= Enter a number to find the name and details of the player [here](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing) (ND)
   
--Brazilian National Team 2020 =Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1oqwFXgnGApkkbaH1K5yuvM52tzv0QZga?usp=sharing) (ND)
+-Brazilian National Team 2020 =Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1oqwFXgnGApkkbaH1K5yuvM52tzv0QZga?usp=sharing) (D)
 	
--Argentina National Team 2020=Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing) (ND)
+-Argentina National Team 2020=Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing) (D)
   
 -2018 FIFA World Cup Sqauds Player Analysis [here](https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing) (D)
          
