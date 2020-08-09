@@ -51,6 +51,8 @@ I have classified my notebooks into 2 types
 	
 -Argentina National Team 2020=Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing) (D)
   
+-Portugal National Team 2020 = Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1y3oT_ANSXZrmefL9zGx_m3hrJ7mkm8kV?usp=sharing) (D)  
+  
 -2018 FIFA World Cup Sqauds Player Analysis [here](https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing) (D)
          
 -Regression Visualization (D)
