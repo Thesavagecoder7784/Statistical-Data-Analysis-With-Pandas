@@ -43,19 +43,19 @@ I have classified my notebooks into 2 types
   
 -Analysis of Actors,their Salary and Top Movies [here](https://colab.research.google.com/drive/1kZ35Jv8BeTmdMeMj77Hve6zVTlgrDlRy?usp=sharing) (D)
   
--Spanish National Team 2020-Enter a number to get the name and details of the player [here](https://colab.research.google.com/drive/1tVXLZBvdaNK8PX4C6zk0G2uj3r6a1lSR?usp=sharing) (ND)
+-Spanish National Team 2020 = Enter a number to get the name and details of the player [here](https://colab.research.google.com/drive/1tVXLZBvdaNK8PX4C6zk0G2uj3r6a1lSR?usp=sharing) (ND)
         
--Belgian National Team 2020= Enter a number to find the name and details of the player [here](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing) (ND)
+-Belgian National Team 2020 = Enter a number to find the name and details of the player [here](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing) (ND)
   
--Brazilian National Team 2020 =Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1oqwFXgnGApkkbaH1K5yuvM52tzv0QZga?usp=sharing) (D)
+-Brazilian National Team 2020 = Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1oqwFXgnGApkkbaH1K5yuvM52tzv0QZga?usp=sharing) (D)
 	
--Argentina National Team 2020=Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing) (D)
+-Argentina National Team 2020 = Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing) (D)
   
--Portugal National Team 2020 = Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1y3oT_ANSXZrmefL9zGx_m3hrJ7mkm8kV?usp=sharing) (D)  
+-Portugal National Team 2020 = Enter a number to find the name of the player,age,market value [here](https://colab.research.google.com/drive/1y3oT_ANSXZrmefL9zGx_m3hrJ7mkm8kV?usp=sharing) (D)  
+
+-Croatia National Team 2020 = Enter a number to find the name of the player,age,market value [here](https://colab.research.google.com/drive/1JyTqEvDz8aktMmY8TS_Vj9kBG0ToWEXL?usp=sharing) (D)
   
 -2018 FIFA World Cup Sqauds Player Analysis [here](https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing) (D)
-         
--Regression Visualization (D)
 
 ### Check out my LinkedIn Profile [here](https://www.linkedin.com/in/prabhat-palraj-237719172/)
 
