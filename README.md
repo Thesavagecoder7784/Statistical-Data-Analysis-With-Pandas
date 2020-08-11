@@ -33,31 +33,33 @@ I have classified my notebooks into 2 types
 
 **Click here to view and execute the code in colab**
 
--Magic Trick [here](https://colab.research.google.com/drive/1Q5M571lpIRo2kxk5br4cGAyiLv27rHDA?usp=sharing) - (ND)
+-Magic Trick (ND)
  
--IPL Auction 2020 Analysis [here](https://colab.research.google.com/drive/1sE5wycev0PU1Ga4_IzllNvD8E-40hQVE?usp=sharing) (D)
+-IPL Auction 2020 Analysis (D)
   
--English Premier League Transfers Analysis 2019/2020 [here](https://colab.research.google.com/drive/1GVdtVlSBnODOyxITte8hzw0d9cK9MKZu?usp=sharing) (D)
+-English Premier League Transfers Analysis 2019/2020 (D)
   
 -Analysis of NBA players and positions of all time (D)
   
--Basic Analysis of Most Expenive transfers in Football [here](https://colab.research.google.com/drive/1YD2jjWuaTSGp6mFuGC8zU3QYscLx-Emw?usp=sharing) (D)
+-Basic Analysis of Most Expenive transfers in Football (D)
   
--Analysis of Actors,their Salary and Top Movies [here](https://colab.research.google.com/drive/1kZ35Jv8BeTmdMeMj77Hve6zVTlgrDlRy?usp=sharing) (D)
-  
--Spanish National Team 2020 = Enter a number to get the name and details of the player [here](https://colab.research.google.com/drive/1tVXLZBvdaNK8PX4C6zk0G2uj3r6a1lSR?usp=sharing) (ND)
-        
--Belgian National Team 2020 = Enter a number to find the name and details of the player [here](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing) (ND)
-  
--Brazilian National Team 2020 = Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1oqwFXgnGApkkbaH1K5yuvM52tzv0QZga?usp=sharing) (D)
-	
--Argentina National Team 2020 = Enter a number to find the name of the player [here](https://colab.research.google.com/drive/1XTgS-dAfdQmFKPOEBnKjLrGWmAqTGn6Y?usp=sharing) (D)
-  
--Portugal National Team 2020 = Enter a number to find the name of the player,age,market value [here](https://colab.research.google.com/drive/1y3oT_ANSXZrmefL9zGx_m3hrJ7mkm8kV?usp=sharing) (D)  
+-Analysis of Actors,their Salary and Top Movies (D)
 
--Croatia National Team 2020 = Enter a number to find the name of the player,age,market value [here](https://colab.research.google.com/drive/1JyTqEvDz8aktMmY8TS_Vj9kBG0ToWEXL?usp=sharing) (D)
+-Pokemon Stats Analysis (Attack power,defense power,generation,legendary etc.) (D)
   
--2018 FIFA World Cup Sqauds Player Analysis [here](https://colab.research.google.com/drive/1gnkf643FleeunzpdZU0REvDJ13IMY70C?usp=sharing) (D)
+-Spanish National Team 2020 = Enter a number to get the name and details of the player (ND)
+        
+-Belgian National Team 2020 = Enter a number to find the name and details of the player (ND)
+  
+-Brazilian National Team 2020 = Enter a number to find the name of the player (D)
+	
+-Argentina National Team 2020 = Enter a number to find the name of the player (D)
+  
+-Portugal National Team 2020 = Enter a number to find the name of the player,age,market value  (D)  
+
+-Croatia National Team 2020 = Enter a number to find the name of the player,age,market value (D)
+  
+-2018 FIFA World Cup Sqauds Player Analysis(D)
 
 ### Check out my LinkedIn Profile [here](https://www.linkedin.com/in/prabhat-palraj-237719172/)
 
