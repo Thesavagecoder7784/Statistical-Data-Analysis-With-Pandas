@@ -1,5 +1,7 @@
 # Python Notebooks
 
+***All work are done by me with publicly available data sets***
+
 ## A repository which holds all of my Python projects
  
 I have classified my notebooks into 2 types
