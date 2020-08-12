@@ -1,4 +1,4 @@
-# Python Notebooks
+# Statistical Data Analysis With Pandas Notebooks
 
 ***All work are done by me with publicly available data sets***
 
