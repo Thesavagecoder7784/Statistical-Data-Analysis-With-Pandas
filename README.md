@@ -46,7 +46,9 @@ I have classified my notebooks into 2 types
 -Analysis of Actors,their Salary and Top Movies (D)
 
 -Pokemon Stats Analysis (Attack power,defense power,generation,legendary etc.) (D)
-  
+
+-Madden 21 Stats Analysis (Overall rating, height, weight,age,position, etc.) (D)
+
 -Spanish National Team 2020 = Enter a number to get the name and details of the player (ND)
         
 -Belgian National Team 2020 = Enter a number to find the name and details of the player (ND)
