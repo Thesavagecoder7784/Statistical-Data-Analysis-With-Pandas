@@ -49,6 +49,8 @@ I have classified my notebooks into 2 types
 
 -Madden 21 Stats Analysis (Overall rating, height, weight,age,position, etc.) (D)
 
+-New York City Airbnb listings analysis (Price, neighbourhood, availabilty etc.) (D)
+
 -Spanish National Team 2020 = Enter a number to get the name and details of the player (ND)
         
 -Belgian National Team 2020 = Enter a number to find the name and details of the player (ND)
