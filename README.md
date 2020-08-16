@@ -11,7 +11,7 @@ I have classified my notebooks into 2 types
 2 - *Performing A Statistical Analysis* (E.g.IPL Auction 2020 Analysis.ipynb)
 
 ## Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
-## Or if you are a football fan - Check out EPL Transfers Analysis 2019/20 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Its honestly awesome- containing - barplots,countplots,pieplots etc.***)
+## Or if you are a football fan - Check out EPL Transfers Analysis 2019/20 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Its honestly awesome!!! -containing barplots,countplots,pieplots,scatterplots etc.***)
 
 **I personally recommend you to try out [this](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
 (Execute and run the cells in colab)**
