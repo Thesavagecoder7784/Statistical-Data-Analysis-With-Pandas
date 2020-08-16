@@ -21,10 +21,13 @@ I have classified my notebooks into 2 types
 ### Here's one of my own example:
 
 **Before:**
-![alt text](https://github.com/Thesavagecoder7784/datasets-images/blob/master/Maplotlib%20Actor%20Before.PNG?raw=true)
+![alt text](https://github.com/Thesavagecoder7784/images/blob/master/Number%20of%20players%20in%20each%20position%20IPL%20Auction%20Before.PNG)
 
 **After:**
-![alt text](https://github.com/Thesavagecoder7784/datasets-images/blob/master/Maplotlib%20Actor%20After.PNG?raw=true)
+![alt text](https://github.com/Thesavagecoder7784/images/blob/master/Number%20of%20players%20in%20each%20position%20IPL%20Auction%20After.PNG)
+
+**Now:**
+![alt text](https://github.com/Thesavagecoder7784/images/blob/master/Number%20of%20players%20in%20each%20position%20IPL%20Auction%20Now.PNG)
 
 **You can download the datset and execute the cells in colab:**
 
