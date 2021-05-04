@@ -33,8 +33,6 @@ I have classified my notebooks into 2 types
 
 **(D) - Dataset required  (ND) - No dataset required**
 
-**Click here to view and execute the code in colab**
-
 -Magic Trick (ND)
  
 -IPL Auction 2020 Analysis (D)
