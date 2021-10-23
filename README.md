@@ -36,6 +36,8 @@ I have classified my notebooks into 2 types
 -Magic Trick (ND)
  
 -IPL Auction 2020 Analysis (D)
+
+-IPL Auction 2021 Analysis (D)
   
 -English Premier League Transfers Analysis 2019/2020 (D)
   
@@ -51,18 +53,6 @@ I have classified my notebooks into 2 types
 
 -New York City Airbnb listings analysis (Price, neighbourhood, availabilty etc.) (D)
 
--Spanish National Team 2020 = Enter a number to get the name and details of the player (ND)
-        
--Belgian National Team 2020 = Enter a number to find the name and details of the player (ND)
-  
--Brazilian National Team 2020 = Enter a number to find the name of the player (D)
-	
--Argentina National Team 2020 = Enter a number to find the name of the player (D)
-  
--Portugal National Team 2020 = Enter a number to find the name of the player,age,market value  (D)  
-
--Croatia National Team 2020 = Enter a number to find the name of the player,age,market value (D)
-  
 -2018 FIFA World Cup Sqauds Player Analysis(D)
 
 ### Check out my LinkedIn Profile [here](https://www.linkedin.com/in/prabhat-palraj-237719172/)
