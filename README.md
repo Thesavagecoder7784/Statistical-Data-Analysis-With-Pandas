@@ -41,8 +41,6 @@ I have classified my notebooks into 2 types
   
 -English Premier League Transfers Analysis 2019/2020 (D)
   
--Analysis of NBA players and positions of all time (D)
-  
 -Basic Analysis of Most Expenive transfers in Football (D)
   
 -Analysis of Actors,their Salary and Top Movies (D)
