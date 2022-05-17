@@ -1,6 +1,6 @@
 # Statistical Data Analysis With Pandas Notebooks
 
-***All work are done by me with publicly available data sets***
+***All work are done by me with publicly available datasets***
 
 ## A repository which holds all of my Data Analysis with Python projects
 
@@ -8,8 +8,6 @@
 
 ## 🏏 Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
 ## ⚽️ Or if you are a football fan - Check out EPL Transfers Analysis 2019/20 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Contains barplots,countplots,pieplots,scatterplots etc.***)
-
-**I personally recommend you to try out [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)**
 
 ## Always remember to improvise and beautify your code
 
@@ -47,6 +45,3 @@
 -New York City Airbnb listings analysis (Price, neighbourhood, availabilty etc.) (D)
 
 -2018 FIFA World Cup Sqauds Player Analysis(D)
-
-### Check out my LinkedIn Profile [here](https://www.linkedin.com/in/prabhat-palraj-237719172/)
-
