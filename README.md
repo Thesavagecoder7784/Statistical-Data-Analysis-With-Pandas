@@ -3,18 +3,13 @@
 ***All work are done by me with publicly available data sets***
 
 ## A repository which holds all of my Data Analysis with Python projects
- 
-I have classified my notebooks into 2 types
 
-1 - *Basic Types which takes user input and performs functions* (E.g. MagicTrick.ipynb)
+*Which is mainly performing Statistical Analysis* (E.g.IPL Auction 2020 Analysis.ipynb)
 
-2 - *Performing A Statistical Analysis* (E.g.IPL Auction 2020 Analysis.ipynb)
+## 🏏 Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
+## ⚽️ Or if you are a football fan - Check out EPL Transfers Analysis 2019/20 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Contains barplots,countplots,pieplots,scatterplots etc.***)
 
-## Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
-## Or if you are a football fan - Check out EPL Transfers Analysis 2019/20 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Contains barplots,countplots,pieplots,scatterplots etc.***)
-
-**I personally recommend you to try out [this](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)
-(Execute and run the cells in colab)**
+**I personally recommend you to try out [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JJSTd0jVsw_Wa82gsexqUCPT9ErfDT0W?usp=sharing)**
 
 ## Always remember to improvise and beautify your code
 
