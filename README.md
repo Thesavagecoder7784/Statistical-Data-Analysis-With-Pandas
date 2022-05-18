@@ -16,6 +16,8 @@
 - 🏏 IPL Auction 2020 Analysis (D)
 
 - 🏏 IPL Auction 2021 Analysis (D)
+
+- ⚽️ English Premier League Transfers Analysis 2018/2019 (D)
   
 - ⚽️ English Premier League Transfers Analysis 2019/2020 (D)
 
