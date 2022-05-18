@@ -7,7 +7,7 @@
 *Which is mainly performing Statistical Analysis* (E.g.IPL Auction 2020 Analysis.ipynb)
 
 ## 🏏 Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
-## ⚽️ Or if you are a football fan - Check out EPL Transfers Analysis 2019/20 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Contains barplots,countplots,pieplots,scatterplots etc.***)
+## ⚽️ Or if you are a football fan - Check out EPL Transfers Analysis 2020/21 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb) (***Contains barplots,countplots,pieplots,scatterplots etc.***)
 
 **You can download the datset and execute the cells in colab:**
 
@@ -20,6 +20,8 @@
 -IPL Auction 2021 Analysis (D)
   
 -English Premier League Transfers Analysis 2019/2020 (D)
+
+-English Premier League Transfers Analysis 2020/2021 (D)
   
 -Basic Analysis of Most Expenive transfers in Football (D)
   
