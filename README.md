@@ -29,7 +29,7 @@
   
 - 🎥 Analysis of Actors,their Salary and Top Movies (D)
 
-- Pokemon Stats Analysis (Attack power,defense power,generation,legendary etc.) (D)
+- 📊 Pokemon Stats Analysis (Attack power,defense power,generation,legendary etc.) (D)
 
 - 🏈 Madden 21 Stats Analysis (Overall rating, height, weight,age,position, etc.) (D)
 
