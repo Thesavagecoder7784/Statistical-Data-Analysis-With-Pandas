@@ -3,15 +3,12 @@
 ***All work are done by me with publicly available datasets***
 
 ## A repository which contains my Data Analysis with Python projects
-
 *Which is mainly performing Statistical Analysis* (E.g.IPL Auction 2020 Analysis.ipynb)
+
+With a exception - 🪄 Magic Trick which is just the code for a simple mathematical magic trick 
 
 ## 🏏 Check out Analysis of IPL Auction 2020 for a complete guided [tutorial](https://github.com/Thesavagecoder7784/PythonNotebooks/blob/master/Analysis%20of%20IPL%20Auction%202020.ipynb)
 ## ⚽️ Or if you are a football fan - Check out EPL Transfers Analysis 2021/22 for a complete [tutorial](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202021-22.ipynb) (***Contains barplots,countplots,pieplots,scatterplots etc.***)
-
-**(D) - Dataset required  (ND) - No dataset required**
-
-- 🪄 Magic Trick (ND)
  
 - 🏏 IPL Auction 2020 Analysis (D)
 
